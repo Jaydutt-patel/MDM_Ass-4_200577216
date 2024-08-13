@@ -1,0 +1,6 @@
+framework module Pods_FinalMobileDataExam {
+  umbrella header "Pods-FinalMobileDataExam-umbrella.h"
+
+  export *
+  module * { export * }
+}
